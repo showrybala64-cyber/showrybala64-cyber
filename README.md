@@ -84,7 +84,7 @@ Actively looking for **Data Analyst / BI / Analytics Engineering** roles. On OPT
 |---|---|
 | LinkedIn | [linkedin.com/in/lourdu-bala-showry-k](https://www.linkedin.com/in/lourdu-bala-showry-k) |
 | Email | [lourdubalashowrykata@gmail.com](mailto:lourdubalashowrykata@gmail.com) |
-| Phone | (586) 808-6961 — Mon to Fri, 8 AM – 9 PM |
+| Phone | (586) 808-6961 — Mon to Fri, 8 AM – 9 PM EST |
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdu-bala-showry-k)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourdubalashowrykata@gmail.com)
