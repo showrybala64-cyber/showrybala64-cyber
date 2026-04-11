@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Lourdu Bala Showry</h1>
+<h1 align="center">Hi, I'm Showry</h1>
 <h3 align="center">Data Analyst | Ex-Amazon | M.S. Information Systems @ CMU | Graduating Apr 2026</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lourdu-bala-showry-k" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:showrybala64@gmail.com">
+  <a href="mailto:lourdubalashowrykata@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/OPT%20%7C%20No%20Sponsorship%20Required-28a745?style=for-the-badge" />
@@ -80,5 +80,11 @@
 
 Actively looking for **Data Analyst / BI / Analytics Engineering** roles. On OPT — no sponsorship required.
 
+| | |
+|---|---|
+| LinkedIn | [linkedin.com/in/lourdu-bala-showry-k](https://www.linkedin.com/in/lourdu-bala-showry-k) |
+| Email | [lourdubalashowrykata@gmail.com](mailto:lourdubalashowrykata@gmail.com) |
+| Phone | (586) 808-6961 — Mon to Fri, 8 AM – 9 PM |
+
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourdu-bala-showry-k)
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:showrybala64@gmail.com)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourdubalashowrykata@gmail.com)
