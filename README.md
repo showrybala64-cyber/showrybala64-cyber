@@ -59,11 +59,12 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [ResumeForge](https://github.com/showrybala64-cyber/ResumeForge) | AI-powered resume tailoring app with job tracker dashboard, ATS optimization & PDF generation | React, Node.js, Claude API |
-| [Netflix Content Insights](https://github.com/showrybala64-cyber/Netflix-Content-Insights-Dashboard) | Interactive Tableau dashboard analyzing Netflix content across 190+ countries | Tableau, Python |
-| [Global Energy Transition](https://github.com/showrybala64-cyber/Global-Energy-Transition-EV-vs-Gas-Dashboard) | EV vs Gas adoption trends, emissions & energy transition analysis | Tableau |
-| [Library Reservation System](https://github.com/showrybala64-cyber/University-Library-Reservation-System) | Role-based desktop app for CMU study room booking | Python, CustomTkinter, MySQL |
-| [2 Degree Blueprint](https://github.com/showrybala64-cyber/2-Degree-Blueprint-Climate-Policy-Simulation) | Climate policy simulation modeling | Python, Data Modeling |
-| [SCI Service Support](https://github.com/showrybala64-cyber/sci-service-support-system-analysis) | Enterprise service request & inventory systems analysis | Systems Analysis, UML |
+| [Library Study Room Reservation System](https://github.com/showrybala64-cyber/Library-Study-Room-Reservation-System) | Full-stack desktop app for CMU library study room reservations with role-based access for Students and Admins | Python, CustomTkinter, MySQL |
+| [Netflix Content Insights Dashboard](https://github.com/showrybala64-cyber/Netflix-Content-Insights-Dashboard) | Interactive Tableau dashboard analyzing Netflix content distribution and genre trends across 190+ countries | Tableau |
+| [Global Energy Transition: EV vs Gas](https://github.com/showrybala64-cyber/Global-Energy-Transition-EV-vs-Gas-Dashboard) | EV vs Gas adoption trends, emissions comparison & energy transition analysis worldwide | Tableau |
+| [Books & Movies Genre Demand USA](https://github.com/showrybala64-cyber/Books-Movies-Genre-Demand-USA-Dashboard) | Tableau dashboard analyzing how genre influences demand for books and movies in the US (2000-2016) | Tableau |
+| [2° Blueprint: Climate Policy Simulation](https://github.com/showrybala64-cyber/2-Degree-Blueprint-Climate-Policy-Simulation) | Climate policy simulation using En-ROADS model to design a scenario limiting global warming to 2°C | En-ROADS, Data Modeling |
+| [SCI Service Support System](https://github.com/showrybala64-cyber/sci-service-support-system-analysis) | Enterprise service request, inventory, RMA & billing system — full systems analysis & data modeling | Systems Analysis, UML |
 
 ---
 
