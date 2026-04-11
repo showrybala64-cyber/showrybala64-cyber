@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Showry</h1>
+<h1 align="center">Hi, I'm Lourdu Bala Showry</h1>
 <h3 align="center">Data Analyst | Ex-Amazon | M.S. Information Systems @ CMU | Graduating Apr 2026</h3>
 
 <p align="center">
