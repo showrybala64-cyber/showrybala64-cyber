@@ -18,8 +18,8 @@
 - **M.S. Information Systems (Data Analytics)** — Central Michigan University | GPA: 3.98 | Apr 2026
 - **3+ years** as a Data Analyst at **Amazon** (FBA Analytics & Vendor Flex Operations)
 - Passionate about turning raw data into business decisions using SQL, Python, and Tableau
-- Currently building **ResumeForge** — an AI-powered resume tailoring tool (React + Node.js + Claude API)
-- Mount Pleasant, MI | Available immediately upon graduation
+- Currently building **SupplyFlow**
+- Shelby Township, MI | Available immediately upon graduation
 - Ask me about **SQL, Tableau, ETL pipelines, Power BI, AWS Redshift**
 
 ---
