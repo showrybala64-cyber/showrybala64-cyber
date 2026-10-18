@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lourdu Bala Showry</h1>
-<h3 align="center">Data Analyst | Ex-Amazon | M.S. Information Systems @ CMU | Graduated May 2026</h3>
+<h3 align="center">Software Engineer | Data Analyst | Data Engineer | Ex-Amazon | M.S. Information Systems @ CMU | Graduated May 2026</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lourdu-bala-showry-k" target="_blank">
@@ -16,7 +16,7 @@
 ## About Me
 
 - **M.S. Information Systems (Data Analytics)** — Central Michigan University | GPA: 3.98 | Apr 2026
-- **3+ years** as a Data Analyst at **Amazon** (FBA Analytics & Vendor Flex Operations)
+- **3+ years** as a Software Engineer at **Amazon** 
 - Passionate about turning raw data into business decisions using SQL, Python, and Tableau
 - Currently building **SupplyFlow**
 - Shelby Township, MI | Available immediately upon graduation
@@ -79,7 +79,7 @@
 
 ## Let's Connect
 
-Actively looking for **Data Analyst / BI / Analytics Engineering** roles. On OPT — no sponsorship required.
+Actively looking for **Data Analyst / BI / Analytics Engineering / Data Engineering** roles. On OPT — no sponsorship required.
 
 | | |
 |---|---|
